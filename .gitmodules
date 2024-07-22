@@ -1,0 +1,6 @@
+[submodule "ctkhcn"]
+	path = ctkhcn
+	url = https://github.com/nguuyenthithuy/ctkhcn.git
+[submodule "database"]
+	path = database
+	url = https://github.com/nguuyenthithuy/database.git
